@@ -6,7 +6,7 @@ phases:
       nodejs: 20
   commands:
     - echo "Node js is installing"
-    - npm ci --leagcy-peer-deeps
+    - npm ci --legacy-peer-deeps
 
 build:
   commands:
